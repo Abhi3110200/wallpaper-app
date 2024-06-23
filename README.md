@@ -7,6 +7,7 @@ Created a cross-platform wallpaper application using React Native and Expo, desi
 # Technologies Used:
 
 React Native & Expo: Built with React Native for a seamless cross-platform experience, leveraging Expo for simplified development and deployment across iOS, Android, and web.
+
 Expo Router v3: Implemented routing with Expo Router v3 for efficient navigation and smooth user experience.
 
 React Native Reanimated: Utilized React Native Reanimated for fluid animations and enhanced UI interactions.
