@@ -43,6 +43,10 @@ Smooth Performance: Optimized for performance with efficient image loading, cach
 
 Cross-Platform Compatibility: Provides a consistent and smooth experience across iOS, Android, and web platforms.
 
+![WhatsApp Image 2024-06-23 at 20 43 34_36e52cbf](https://github.com/Abhi3110200/wallpaper-app/assets/94143976/59437921-df41-44ac-b036-1a4119444723)
+![WhatsApp Image 2024-06-23 at 20 43 34_0c1aea5c](https://github.com/Abhi3110200/wallpaper-app/assets/94143976/37a30173-81c5-42ca-a241-c85bb336dc1f)
+
+
 
 # Achievements:
 Successfully developed and deployed a feature-rich wallpaper app that enhances user engagement through advanced UI/UX design and seamless API integration.
