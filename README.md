@@ -1,4 +1,4 @@
-Build a Wallpaper App in Expo Router | React Native Project 
+# Build a Wallpaper App in Expo Router | React Native Project 
 
 learn about React Native, Expo Router v3, React Native Reanimated, and Responsive UI.
 - Masonry Layout.
