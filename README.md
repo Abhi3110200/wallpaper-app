@@ -33,13 +33,21 @@ Toast Messages: Added toast messages to give users instant feedback on actions s
 # Features:
 
 Dynamic Content: Fetches and displays an extensive collection of wallpapers from the Pixabay API, ensuring fresh and high-quality content.
+
 Responsive Design: Ensures optimal user experience with a layout that adapts seamlessly to different screen sizes and orientations on mobile and web platforms.
+
 Interactive UI: Allows users to browse, view, download, and share wallpapers effortlessly with an intuitive and engaging interface.
+
 Smooth Performance: Optimized for performance with efficient image loading, caching, and minimal load times.
+
 Cross-Platform Compatibility: Provides a consistent and smooth experience across iOS, Android, and web platforms.
 
-#Achievements:
+
+# Achievements:
 Successfully developed and deployed a feature-rich wallpaper app that enhances user engagement through advanced UI/UX design and seamless API integration.
+
 Implemented key functionalities such as responsive masonry layout, image caching, downloading, and sharing, ensuring high performance and user satisfaction.
+
 Demonstrated expertise in modern mobile and web development technologies, including React Native, Expo Router, and React Native Reanimated.
+
 This project showcases proficiency in building responsive, high-performance cross-platform applications, integrating third-party APIs, and utilizing advanced UI/UX techniques.
